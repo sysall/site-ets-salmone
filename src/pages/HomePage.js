@@ -73,7 +73,7 @@ const HomePage = () => {
               <h3>Livraison Rapide</h3>
               <p>
                 Commandez facilement et recevez vos produits rapidement partout en 
-                Côte d'Ivoire.
+                Sénégal.
               </p>
             </div>
             <div className="feature-card">

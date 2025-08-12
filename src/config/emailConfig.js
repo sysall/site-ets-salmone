@@ -19,7 +19,7 @@ export const EMAIL_CONFIG = {
   PUBLIC_KEY: 'your_public_key', // Replace with your actual public key
   
   // Company email where orders and messages will be sent
-  COMPANY_EMAIL: 'contact@etssalmone.ci'
+  COMPANY_EMAIL: 'contact@etssalmone.sn'
 };
 
 // Email template suggestions:

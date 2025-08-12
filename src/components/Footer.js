@@ -63,15 +63,15 @@ const Footer = () => {
             <div className="contact-info">
               <div className="contact-item">
                 <Phone size={18} />
-                <span>+225 XX XX XX XX XX</span>
+                <span>+221 XX XX XX XX XX</span>
               </div>
               <div className="contact-item">
                 <Mail size={18} />
-                <span>contact@etssalmone.ci</span>
+                <span>contact@etssalmone.sn</span>
               </div>
               <div className="contact-item">
                 <MapPin size={18} />
-                <span>Abidjan, Côte d'Ivoire</span>
+                <span>Dakar, Sénégal</span>
               </div>
             </div>
           </div>

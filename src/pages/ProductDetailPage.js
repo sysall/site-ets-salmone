@@ -163,7 +163,7 @@ const ProductDetailPage = () => {
               </div>
               <div className="feature">
                 <Check size={20} />
-                <span>Livraison rapide en Côte d'Ivoire</span>
+                <span>Livraison rapide au Sénégal</span>
               </div>
               <div className="feature">
                 <Check size={20} />
@@ -221,7 +221,7 @@ const ProductDetailPage = () => {
                   onChange={handleInputChange}
                   className="form-input"
                   required
-                  placeholder="+225 XX XX XX XX XX"
+                  placeholder="+221 XX XX XX XX XX"
                 />
               </div>
 

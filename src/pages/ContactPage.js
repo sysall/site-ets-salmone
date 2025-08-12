@@ -88,7 +88,7 @@ const ContactPage = () => {
                 </div>
                 <div className="contact-details">
                   <h3>Téléphone</h3>
-                  <p>+225 XX XX XX XX XX</p>
+                  <p>+221 XX XX XX XX XX</p>
                   <p>Disponible 24h/7j</p>
                 </div>
               </div>
@@ -99,7 +99,7 @@ const ContactPage = () => {
                 </div>
                 <div className="contact-details">
                   <h3>Email</h3>
-                  <p>contact@etssalmone.ci</p>
+                  <p>contact@etssalmone.sn</p>
                   <p>Réponse sous 24h</p>
                 </div>
               </div>
@@ -110,7 +110,7 @@ const ContactPage = () => {
                 </div>
                 <div className="contact-details">
                   <h3>Adresse</h3>
-                  <p>Abidjan, Côte d'Ivoire</p>
+                  <p>Dakar, Sénégal</p>
                   <p>Livraison dans tout le pays</p>
                 </div>
               </div>
@@ -137,7 +137,7 @@ const ContactPage = () => {
                 </li>
                 <li>
                   <Check size={20} />
-                  <span>Livraison rapide dans toute la Côte d'Ivoire</span>
+                  <span>Livraison rapide dans tout le Sénégal</span>
                 </li>
                 <li>
                   <Check size={20} />
@@ -182,7 +182,7 @@ const ContactPage = () => {
                     onChange={handleInputChange}
                     className="form-input"
                     required
-                    placeholder="+225 XX XX XX XX XX"
+                    placeholder="+221 XX XX XX XX XX"
                   />
                 </div>
               </div>
@@ -272,7 +272,7 @@ const ContactPage = () => {
             <p>
               Appelez-nous directement pour une assistance rapide ou pour passer votre commande par téléphone.
             </p>
-            <a href="tel:+225XXXXXXXXX" className="btn btn-outline btn-large">
+            <a href="tel:+221XXXXXXXXX" className="btn btn-outline btn-large">
               <Phone size={20} />
               Appeler Maintenant
             </a>
